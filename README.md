@@ -11,7 +11,7 @@
         $ cd ../react-dom && yarn link
 ```
 
-3. Go to the example project directoty (`web-editor-example`) and add linked dependencies.
+3. Go to `web-editor-example` directory and add linked dependencies.
 
 ```sh
         $ yarn link @dooub/editor
